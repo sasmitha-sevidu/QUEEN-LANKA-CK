@@ -7,7 +7,7 @@
     </a>
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmitha-sevidu/QUEEN-LANKA-CK)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsasmithasevidu%2FQUEEN-LANKA-CK&template=https%3A%2F%2Fgithub.com%2Fsasmitha-sevidu%2FQueen-LANKA-CK)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 
