@@ -7,12 +7,13 @@
     </a>
 </p>
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(CHAMOD😈)***
+ ***C-k_SHAN(CHAMOD😈)***
 <a href="https://Wa.me/+94702256963">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsasmithasevidu%2FQUEEN-LANKA-CK&template=https%3A%2F%2Fgithub.com%2Fsasmitha-sevidu%2FQueen-LANKA-CK)
+
 # ```ALEXA-BUG-BOT```
 <p align="center">
 
