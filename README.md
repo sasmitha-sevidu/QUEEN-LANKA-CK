@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://Wa.me/+94702256963">
-<a href="https://ibb.co/j6HCPtY"><img src="https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+    <img src="https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg" alt="cad6199fcc853471766c962341daa092" border="0"></a>
 
  ***C-k_SHAN(CHAMOD😈)***
 <a href="https://Wa.me/+94702256963">
