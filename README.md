@@ -1,7 +1,7 @@
 # Queen Lanka
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+deploy+button+To+Install+The+lanka+Bot."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+deploy+button+To+Install+The+queen+lanka+Bot."
             alt="Typing SVG"
         />
     </a>
@@ -11,6 +11,7 @@
 # ```ALEXA-BUG-BOT```
 <p align="center">
 
+ 
         
 [`🧚‍♀qr code scanin👒`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
