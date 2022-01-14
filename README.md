@@ -6,12 +6,10 @@
         />
     </a>
 </p>
-</a>          
-
 
 </a>
-
-         ![logo](https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg)
+    </a>
+![logo](https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg)
 <h1 align="center"><b> 🧚‍♀️QUEEN LANKA 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 
