@@ -7,9 +7,12 @@
     </a>
 </p>
 
+<a href="https://Wa.me/+94702256963">
+<a href="https://ibb.co/j6HCPtY"><img src="https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+
  ***C-k_SHAN(CHAMOD😈)***
 <a href="https://Wa.me/+94702256963">
-    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
+    <img src="https://img.shields.io/badge/FindOn%20owner-purple&style=plastic">
   
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsasmithasevidu%2FQUEEN-LANKA-CK&template=https%3A%2F%2Fgithub.com%2Fsasmitha-sevidu%2FQueen-LANKA-CK)
