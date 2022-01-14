@@ -7,8 +7,13 @@
     </a>
 </p>
 
+![logo](https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg)
+<h1 align="center"><b> 🧚‍♀️QUEEN LANKA 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+
+
 <a href="https://Wa.me/+94702256963">
     <img src="https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+    
 
  ***C-k_SHAN(CHAMOD😈)***
 <a href="https://Wa.me/+94702256963">
